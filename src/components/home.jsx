@@ -84,7 +84,7 @@ export default class home extends Component{
                         <table>
                             <tr>
                                 <td>
-                                    <div className="for-color"><Link to="">{/*Create a separate background image for each block*/}
+                                    <div className="for-color"><Link to="">{/*Create a separate background image for each block*/}{/*trying to modify*/}
                                         <div className="block" id="box-1">
                                             <div className="box-text">Mixzz</div>
                                         </div></Link>
